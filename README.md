@@ -2,11 +2,6 @@
 
 This library is an interface over Sendgrid that in turn makes use of an open source library for calling their system. 
 
-This library is copyright Code Miners Limited and is provided as an accelerator to existing and new customers 
-as part of ongoing project work.
-
-No liability is assumed or implied. All bug fixes are handled internally and are not billable to the client(s).
-
 ## Setup and configuration
 
 The module installs as a Nuget package from the company Nuget repo. To configure, the following key needs to be 
@@ -40,5 +35,7 @@ the wild.
 
 If this code is of use to you, great! If not, no problem, there's a fancy search feature top left of this page. Happy 
 hunting.
+
+Note: This library is copyright Code Miners Limited. No liability is assumed or implied.
 
 :rocket:
